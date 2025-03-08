@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bryancube/nepo-engine/issues"
   },
-  "homepage": "https://github.com/bryancube/nepo-engine#readme"
+  "homepage": "https://github.com/bryancube/nepo-engine#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
