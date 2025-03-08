@@ -1,0 +1,19 @@
+{
+  "name": "asdf",
+  "version": "1.0.0",
+  "description": "오픈소스 위키엔진 프로젝트",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryancube/nepo-engine.git"
+  },
+  "author": "",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bryancube/nepo-engine/issues"
+  },
+  "homepage": "https://github.com/bryancube/nepo-engine#readme"
+}
